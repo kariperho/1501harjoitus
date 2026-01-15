@@ -1,0 +1,14 @@
+Tämä on päivän harjoitus:
+
+"OPEN-SOURCE"-PARIHARJOITUS-HENKILÖT A JA B 
+--------------------------------------------
+1.	A luo uuden (public) repositoryn ja lisää siihen jonkun tiedoston , ja EI lisää toista collaboratoriksi.
+2.	B "forkkaa" A:n luoman repositoryn omaan githubiinsa, ja kloonaa forkatun repositoryn omalle koneelleen.
+3.	B Avaa kloonatun repositoryn koneeltaan ja lisää uuden tiedoston ja luo koneelleen uuden commitin.
+4.	B "pushaa" commitin githubiinsa
+5.	B Luo uuden pull requestin A:n tekememään repositoryyn
+6.	A Avaa pull requestin, tutkii sisältöä (code->checkout with GitHub desktop)->kloonaa muutokset GitHub desktopilla ja avaa muutokset koodieditoriin (open with visual studio code)
+7.	A hyväksyy muutokset -> B:n muutokset tulevat nyt näkyviin A:n repositoryssa
+8.	---------------------------------------------
+9.	A luo uuden tiedoston GitHubissa repositoryynsa ja tekee commitin
+10.	B synkronoi "forkkauksensa" muutokset ja saa A:n lisäämän tiedoston
